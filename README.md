@@ -1,3 +1,3 @@
 # Guess my number Project
 
-Game application with ramdom numbers.
+Game application with random numbers.
